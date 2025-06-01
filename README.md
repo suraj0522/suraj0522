@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suraj0522
 - 👀 I’m interested in ... web development 
-- 🌱 I’m currently learning ... C/C++
+- 🌱 I’m currently learning ... web dev {js}
 - 💞️ I’m looking to collaborate on ... new startups
 - 📫 How to reach me ... 9798193272
   
